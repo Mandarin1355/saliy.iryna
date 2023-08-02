@@ -541,7 +541,6 @@ svg {
     top: 13px;
     right: 203px;
     position: absolute;
-    border: 10px solid #1461ff;
     z-index: -1;
 }
 .about_image:after {
